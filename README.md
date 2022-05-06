@@ -45,7 +45,9 @@ Product Id Name Quantity unit price Total
  101 A 2 25 50
  102 B 1 100 100 
  Net. Amount 150
-Course Outcome 4 (CO4): 
+ 
+Course Outcome 4 (CO4):
+
 1. Create a Graphics package that has classes and interfaces for figures Rectangle, Triangle, 
 Square and Circle. Test the package by finding the area of these figures. 
 2. Create an Arithmetic package that has classes and interfaces for the 4 basic arithmetic 
@@ -71,7 +73,9 @@ operations.
 17. Program to demonstrate the working of Map interface by adding, changing and removing 
 elements.
 18. Program to Convert HashMap to TreeMap
+
 Course Outcome 5 (CO5): 
+
 1. Program to draw Circle, Rectangle, Line in Applet. 
 2. Program to find maximum of three numbers using AWT. 
 3. Find the percentage of marks obtained by a student in 5 subjects. Display a happy face if 
@@ -84,7 +88,9 @@ as rectangle, triangle, square and circle. Draw the corresponding shapes for giv
 parameters as per user’s choice.
 7. Develop a program to handle all mouse events and window events 
 8. Develop a program to handle Key events. 
+
 Course Outcome 6 (CO6): 
+
 1. Program to list the sub directories and files in a given directory and also search for a file 
 name. 
 2. Write a program to write to a file, then read from the file and display the contents on the 
